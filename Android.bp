@@ -10,18 +10,6 @@ android_app_import {
 }
 
 dex_import {
-	name: "mediatek-common",
-	owner: "mediatek",
-	jars: ["proprietary/framework/mediatek-common.jar"],
-}
-
-dex_import {
-	name: "mediatek-framework",
-	owner: "mediatek",
-	jars: ["proprietary/framework/mediatek-framework.jar"],
-}
-
-dex_import {
 	name: "mediatek-ims-base",
 	owner: "mediatek",
 	jars: ["proprietary/framework/mediatek-ims-base.jar"],
